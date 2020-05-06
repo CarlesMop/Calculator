@@ -118,7 +118,6 @@ class _SimpleCalculatorState extends State<SimpleCalculator> {
     }
     }
     );
-
   }
 
   Widget buildButton(String buttonText, double buttonHeight, Color buttonColor){
